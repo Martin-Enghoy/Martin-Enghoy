@@ -1,5 +1,5 @@
 # Hey, you! I'm Martin. 👋😄
-## Welcome to my personal kingdom of Code.
+### Welcome to my personal kingdom of Code.
 
 I am currently a 🎓graduating 💻Computer Engineering Student from 🏹De La Salle University over at 🌏Manila, Philippines.
 
