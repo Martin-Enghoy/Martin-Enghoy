@@ -1,8 +1,10 @@
-# Hey, you! I'm Martin. 👋😄
-### Welcome to my personal kingdom of Code.
+# Hey, you! I'm Martin. 🙋‍♂️
+### Welcome to my personal corner of the Internet.
 
-I am currently a 🎓graduating 💻Computer Engineering Student from 🏹De La Salle University over at 🌏Manila, Philippines.
+I am a Graduate of BSc in Computer Engineering from De La Salle University🏹 over at Manila City, Philippines.
 
-I really 💘 Web Dev, but it's a love-hate relationship for now. I am currently developing a Python Website using Django for our Thesis which utilizes complex CSS, AJAX, Jquery and more that I will specify later.
+I really love Web Dev, but I tend to learn everything tech under the sun. I am currently looking for a full-time job while I juggle my freelance work on two projects.
+
+Currently, I am *trying* to learn and be confident in developing websites using Nextjs and Reactjs primarily in TypeScript. That and Tailwindcss for styling reigns supreme.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin-Enghoy)](https://github.com/anuraghazra/github-readme-stats)
