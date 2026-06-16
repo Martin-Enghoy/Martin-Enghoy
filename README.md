@@ -31,7 +31,7 @@ I am a Graduate of BSc in Computer Engineering from De La Salle University🏹 o
 <h2 align="center">Backend Experience</h2>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,nosql,mongodb,mysql,sqlite,django,elasticsearch,express,firebase,go,graphql,postgres,prisma,redis,vite" />
+        <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,sqlite,django,elasticsearch,express,firebase,go,graphql,postgres,prisma,redis,vite" />
     </a>
 </p>
 
@@ -52,7 +52,7 @@ I am a Graduate of BSc in Computer Engineering from De La Salle University🏹 o
 <h2 align="center">Workflow Stuff I have used</h2>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,nosql,mongodb,sqlite,django,docker,figma,git,github,gitlab,linux,neovim,postman" />
+        <img src="https://skillicons.dev/icons?i=docker,figma,git,github,gitlab,linux,neovim,postman" />
     </a>
 </p>
 
