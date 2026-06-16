@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/badge/Portfolio-martin.enghoy.fun-blue?style=for-the-badge&logo=Web" alt="Compact Portfolio"/>
     </a>
     <a href="https://enghoy.fun">
-        <img src="https://img.shields.io/badge/Hobby_Site-enghoy-fun-orange?style=for-the-badge&logo=Files" alt="Hobby Site" />
+        <img src="https://img.shields.io/badge/Hobby_Site-enghoy.fun-orange?style=for-the-badge&logo=Files" alt="Hobby Site" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Martin-Enghoy&color=2563EB&style=for-the-badge" alt="Profile Views" />
 </div>
